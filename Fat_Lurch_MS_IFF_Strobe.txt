@@ -1,0 +1,10 @@
+Authority:  Fat_Lurch_MS_IFF_Strobe
+Creation:   2/17/2020 5:57:04 PM (by DESKTOP-23K4UQB\Lurch)
+
+== PRIVATE KEY ==
+File: E:\Arma 3\Testing\@MS_IFF_Strobe\keys\Fat_Lurch_MS_IFF_Strobe.biprivatekey
+MD5: 37D18B32002A15219EABE2753A336025
+== PUBLIC KEY ==
+File: E:\Arma 3\Testing\@MS_IFF_Strobe\keys\Fat_Lurch_MS_IFF_Strobe.bikey
+MD5: 052308E3110BDFADBF2379982F1750CD
+
