@@ -1,0 +1,21 @@
+#(argb,8,8,3)color(1,0.6,0.1,1.0,ca)
+
+#(argb,8,8,3)color(0,0,0,1.0,ca)	//WORKS in thermal
+#(argb,8,8,3)color(0,0,0,0.9,ti)	//ALSO WORKS in thermal
+#(argb,8,8,3)color(0,0,0,1.0,ca)
+
+
+
+#(argb,8,8,3)color(0.01,0.01,0.01,1.0,as)
+
+
+#(format,width,height,number of mipmaps)irradiance(specular power)
+
+#(argb,8,8,3)irradiance(1)
+
+
+#(argb,8,8,3)color(0,0,0,0.01,ti)
+
+
+
+#(ai,64,64,1)fresnel(2.94,3.5)
